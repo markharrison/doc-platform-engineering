@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Microsoft Developer Plaform'
+sidebar_label: 'Microsoft Developer Platform'
 slug: /msdevplat
 ---
 
-# Microsoft Developer Plaform
+# Microsoft Developer Platform
 
 Up to now - no products have been mentioned in this document. Remember Platform Engineering is a practice, not a product.
 
