@@ -11,11 +11,11 @@ Platform Engineering and Internal Developer Platform (IDP) are two related conce
 
 Platform Engineering focuses on building and maintaining the foundational infrastructure and services that support the entire organization's software development and deployment processes. Key features of Platform Engineering include:
 
-- Infrastructure Management: This involves managing the underlying infrastructure components such as servers, networks, storage, and cloud services.
-- Automation: Platform engineers develop and maintain automation tools and frameworks to streamline processes like deployment, monitoring, scaling, and provisioning.
-- Scalability and Reliability: Ensuring that the platform can scale effectively to handle increasing workloads and maintain high availability and reliability.
-- Security: Implementing security measures and best practices to protect the platform and its associated services from vulnerabilities and threats.
-- Integration: Integrating various tools and services into the platform ecosystem to support the development lifecycle effectively.
+- **Infrastructure Management**: This involves managing the underlying infrastructure components such as servers, networks, storage, and cloud services.
+- **Automation**: Platform engineers develop and maintain automation tools and frameworks to streamline processes like deployment, monitoring, scaling, and provisioning.
+- **Scalability and Reliability**: Ensuring that the platform can scale effectively to handle increasing workloads and maintain high availability and reliability.
+- **Security**: Implementing security measures and best practices to protect the platform and its associated services from vulnerabilities and threats.
+- **Integration**: Integrating various tools and services into the platform ecosystem to support the development lifecycle effectively.
 
 
 ## Internal Developer Platform
@@ -24,11 +24,11 @@ An Internal Developer Platform (IDP) is a layer built on top of the underlying p
 
 Key features of an IDP include:
 
-- Developer Productivity: Providing developers with tools and workflows that increase their productivity, such as streamlined deployment pipelines, code review automation, and integrated development environments (IDEs).
-- Standardization and Consistency: Enforcing best practices and standardization across development teams by providing templates, libraries, and predefined configurations.
-- Collaboration: Providing collaboration among development teams by providing features such as shared code repositories, issue tracking, and communication tools.
-- Observability: Providing built-in monitoring, logging, and debugging tools to help developers diagnose and troubleshoot issues more effectively.
-- Governance and Compliance: Enforcing governance policies and compliance requirements through automated checks and controls integrated into the development workflow.
+- **Developer Productivity**: Providing developers with tools and workflows that increase their productivity, such as streamlined deployment pipelines, code review automation, and integrated development environments (IDEs).
+- **tandardization and Consistency**: Enforcing best practices and standardization across development teams by providing templates, libraries, and predefined configurations.
+- **Collaboration**: Providing collaboration among development teams by providing features such as shared code repositories, issue tracking, and communication tools.
+- **Observability**: Providing built-in monitoring, logging, and debugging tools to help developers diagnose and troubleshoot issues more effectively.
+- **Governance and Compliance**: Enforcing governance policies and compliance requirements through automated checks and controls integrated into the development workflow.
 
 An IDP consists of many different technologies and tools, integrated in a way that reduces cognitive load on developers without abstracting away context and underlying technologies.  Furthermore It will provide guardrails, guiding developers towards best practices and ensuring compliance.
 
