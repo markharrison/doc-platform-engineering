@@ -5,7 +5,7 @@ slug: /msdevplat
 
 # Microsoft Developer Plaform
 
-Up to now - no products have been mentioned in this document.  
+Up to now - no products have been mentioned in this document. Remember Platform Engineering is a practice, not a product.
 
 Lets see how the current Microsoft tools and technologies slot into the IDP reference architecture.
 
