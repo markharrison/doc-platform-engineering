@@ -5,7 +5,7 @@ slug: /
 sidebar_label: 'Introduction'
 ---
 
-# Platform Engineering 
+# Empowering Developers with Platform Engineering 
 
 24 March 2024
 

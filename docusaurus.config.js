@@ -7,7 +7,7 @@ const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Platform Engineering',
+  title: 'Empowering Developers with Platform Engineering',
   tagline: 'xxxx',
   url: 'https://markharrison.io',
   baseUrl: '/doc-platform-engineering/',
