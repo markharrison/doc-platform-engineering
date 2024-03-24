@@ -25,7 +25,7 @@ An Internal Developer Platform (IDP) is a layer built on top of the underlying p
 Key features of an IDP include:
 
 - **Developer Productivity**: Providing developers with tools and workflows that increase their productivity, such as streamlined deployment pipelines, code review automation, and integrated development environments (IDEs).
-- **tandardization and Consistency**: Enforcing best practices and standardization across development teams by providing templates, libraries, and predefined configurations.
+- **Standardization and Consistency**: Enforcing best practices and standardization across development teams by providing templates, libraries, and predefined configurations.
 - **Collaboration**: Providing collaboration among development teams by providing features such as shared code repositories, issue tracking, and communication tools.
 - **Observability**: Providing built-in monitoring, logging, and debugging tools to help developers diagnose and troubleshoot issues more effectively.
 - **Governance and Compliance**: Enforcing governance policies and compliance requirements through automated checks and controls integrated into the development workflow.
