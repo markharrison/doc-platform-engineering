@@ -17,7 +17,7 @@ Lets see how the current Microsoft tools and technologies slot into the IDP refe
 ### Developer Control Plane
 
 - Developer Portal:
-  - BackStage [link](<https://github.com/backstage/backstage>) ... Spotifys open source framework for building developer portals
+  - BackStage [link](<https://backstage.io/>) ... Spotifys open source framework for building developer portals
   - Radius [link](<https://radapp.io/>) ... Azure Incubation project to define/deploy cloud-native applications
   - Microsoft DevCenter [link](<https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service#create-a-dev-center>) | Microsoft DevPortal [link](<https://devportal.microsoft.com>)  
   - Azure Developer CLI [link](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) 
