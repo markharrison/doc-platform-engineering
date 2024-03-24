@@ -62,9 +62,9 @@ const config = {
 
           {
             type: 'doc',
-            docId: 'why',
+            docId: 'intro',
             position: 'left',
-            label: 'Platform Engineering',
+            label: 'Empowering Developers with Platform Engineering',
           },
           {
             href: 'https://github.com/markharrison/doc-platform-engineering',
