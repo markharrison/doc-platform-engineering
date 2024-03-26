@@ -27,6 +27,6 @@ If the document is useful to others that's great - but the primary audience rema
 
 As with most new software technology advancements, this topic is subject to change. There exist various definitions, a range of strategies, and it can provoke numerous questions. Additionally, new product and service releases are continuous.
 
-Garner predicts that by 2026, 80% of large software engineering organizations will have established platform engineering teams. Interestingly, some critics argue that Platform Engineering presents few new ideas, contending it's merely a rebranding of concepts that have been around for some time, with good marketing making it appear cool.  These divergent perspectives are something to keep in mind as we dig a bit deeper into understanding what it is all about.  
+Gartner predicts that by 2026, 80% of large software engineering organizations will have established platform engineering teams. Interestingly, some critics argue that Platform Engineering presents few new ideas, contending it's merely a rebranding of concepts that have been around for some time, with good marketing making it appear cool.  These divergent perspectives are something to keep in mind as we dig a bit deeper into understanding what it is all about.  
 
 Let's begin by exploring: Why do we need this?
