@@ -13,7 +13,7 @@ sidebar_label: 'Introduction'
 This document is DRAFT - work in progress
 :::
 
-![](images/banner1.png)
+![](images/platformengineering.png)
 
 ## Introduction
 
