@@ -19,9 +19,9 @@ But didnt DevOps solve this problem ?  Why do we need something new?
 
 So before DevOps, developers and operations folks were siloed with a metaphorical wall between.  The two teams didn't talk much, they had their own territories.
 
-Developers would build their cool apps and then just toss them over this imaginary wall to the operations team, like, "Here you go, deploy this!".  If it worked in the developers enviuronments, they assumed it would work smoothly everywhere, even in production.
+Developers would build their cool apps and then just toss them over this imaginary wall to the operations team, like, "Here you go, deploy this!".  If it worked in the developers environments, they assumed it would work smoothly everywhere, even in production.
 
-And did the operations team really understand what these apps were all about? Could they make sense of all the logs/instrumention these apps spat out? Probably not. So often chaos often ensued.
+And did the operations team really understand what these apps were all about? Could they make sense of all the logs/instrumentation these apps spat out? Probably not. So often chaos often ensued.
 
 ## DevOps 
 

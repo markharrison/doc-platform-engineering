@@ -21,7 +21,7 @@ This document is DRAFT - work in progress
 
 Writing this document serves as a tool for deepening my understanding of this evolving domain and its recent advancements.   Whilst I have considerable experience in many of the underlying topics discussed - the main goal for writing this is to enhance my knowledge and ability to articulate clearly on the subject.  
 
-If the document is useful to others thats great - but the primary audience remains myself.  Feedback welcome / appreciated.
+If the document is useful to others that's great - but the primary audience remains myself.  Feedback welcome / appreciated.
 
 ## Evolving 
 

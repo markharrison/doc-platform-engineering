@@ -21,7 +21,7 @@ This section lists some basic components and tooling typically involved in platf
 
 - **Automation**: Streamlines repetitive tasks, reduces manual errors, and accelerates software delivery through Continuous Integration/Continuous Deployment (CI/CD) pipelines that automate build, testing, and deployment of code changes for rapid and reliable releases.
 
-- **Monitoring and Observability Tools**: Essential for tracking health, performance, and availability of applications and infrastructure components, with log aggregation tools centralizing and analyzing logs for troubleshooting and debugging.
+- **Monitoring and Observability Tools**: Essential for tracking health, performance, and availability of applications and infrastructure components, with log aggregation tools centralizing and analysing logs for troubleshooting and debugging.
 
 - **Identity and Access Management**: Crucial for managing user access permissions, authentication, and authorization to platform resources.
 
@@ -48,19 +48,15 @@ McKinsey has introduced an Internal Developer Platform (IDP) reference architect
   - Components include: Automation, continuous integration (build and testing processes), continuous deployment (deployment workflows),  release management, artifact repositories.
 
 - **Monitoring Plane**:  This provides insights into application performance, identify bottlenecks, and troubleshoot issues effectively.
-  - Components include: Observability tools: (Monitor application behavior, metrics, and logs), application performance monitoring, service health monitoring.
+  - Components include: Observability tools: (Monitor application behaviour, metrics, and logs), application performance monitoring, service health monitoring.
 
 - **Security Plane**  This mitigates risks, protect data, and maintain a secure development environment.
   - Components include: Secrets management, access controls, and governance policies.
 
 - **Resource Plane**:  this manages the components necessary to run applications within the platform.
-  - Components include: Compute, databases, storage, networking infrastructure, intergration services (APIs, messages, events, workflow)
+  - Components include: Compute, databases, storage, networking infrastructure, integration services (APIs, messages, events, workflow)
 
 ![](images/refarch.png)
 
 The planes work together to create a robust IDP, enhancing developer productivity and ensuring a reliable platform for software delivery. 
-
-
-## Summary  
-
-These are foundational components and tooling for platform engineering, but specific requirements may vary depending on the organization's needs, infrastructure, and technology stack. Additionally, platform engineers should continuously evaluate and evolve their tooling and practices to adapt to changing requirements and advancements in technology. 
+the foundational components and tooling for platform engineering, but specific requirements may vary depending on the organization's needs, infrastructure, and technology stack. Additionally, platform engineers should continuously evaluate and evolve their tooling and practices to adapt to changing requirements and advancements in technology. 
