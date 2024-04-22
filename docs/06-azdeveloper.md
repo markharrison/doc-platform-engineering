@@ -37,7 +37,7 @@ Developers can use designated environments to deploy resources for their needs, 
 
 ### Developer Portal 
 
-Developers can set up Deployment Environments through the Developer Portal, accessible a [https://devportal.azure.com/](<https://devportal.azure.com/>).  Access to authorized deployments requires authentication with Entra ID.
+Developers can set up Deployment Environments through the Developer Portal, accessible a [https://devportal.microsoft.com/](<https://devportal.microsoft.com/>).  Access to authorized deployments requires authentication with Entra ID.
 
 Another Azure service accessible through the same Developer Portal is Microsoft DevBox.  This is a mechanism for provisioning cloud-based developer PCs — a topic for separate discussion. 
 
