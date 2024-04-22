@@ -68,7 +68,7 @@ azd operates with templates comprising of both IaC assets and application code. 
 - create their own template
 - build on one shared in a template library found at [https://azure.github.io/awesome-azd/](<https://azure.github.io/awesome-azd/>).
 
-The following section shows how to use azd from the command line.   Similar functionality is accessible directly from within Visual Studio 2022 / Visual Studio Code (needs azd extension).  There is also a GitHub Action that installs azd so that steps in workflow can use it  to provision resource / deploy applications. 
+The following section shows how to use azd from the command line.   Similar functionality is accessible directly from within Visual Studio 2022 / Visual Studio Code (needs azd extension).  There is also a GitHub Action that installs azd so that steps in workflow can use it to provision resources / deploy applications. 
 
 This is the structure of the template library - and what we see when pulled down to disk:
 
