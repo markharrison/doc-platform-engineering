@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Microsoft Products & Technologies'
-slug: /microsoft-products-technologies
+sidebar_label: 'Microsoft Platform Tooling'
+slug: /microsoft-platform-tooling
 ---
 
-# Microsoft Products & Technologies
+# Microsoft Platform Tooling
 
 Up to now - no products have been mentioned in this document. Remember Platform Engineering is a practice, not a product.
 
