@@ -10,7 +10,7 @@ sidebar_label: 'Introduction'
 24 March 2024
 
 :::warning
-This document is DRAFT - work in progress
+This document is work in progress
 :::
 
 ![](images/platformengineering.png)

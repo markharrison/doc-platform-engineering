@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Why Platform Engineering'
-slug: /why
+slug: /why-platform-engineering
 ---
 
 # Why Platform Engineering 

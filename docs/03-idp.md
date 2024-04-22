@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Empowering Developers'
-slug: /idp
+slug: /internal-developer-platform
 ---
 
 # Empowering Developers

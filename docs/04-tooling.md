@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Platform Tooling'
-slug: /tool
+slug: /platform-tooling
 ---
 
 # Platform Tooling

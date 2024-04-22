@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Microsoft Developer Platform'
-slug: /msdevplat
+sidebar_label: 'Microsoft Products & Technologies'
+slug: /microsoft-products-technologies
 ---
 
-# Microsoft Developer Platform
+# Microsoft Products & Technologies
 
 Up to now - no products have been mentioned in this document. Remember Platform Engineering is a practice, not a product.
 
@@ -20,7 +20,7 @@ Lets see how the current Microsoft tools and technologies slot into the IDP refe
   - BackStage [link](<https://backstage.io/>) ... Spotify's open source framework for building developer portals
   - Radius [link](<https://radapp.io/>) ... Azure Incubation project to define/deploy cloud-native applications
   - Microsoft DevCenter [link](<https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service#create-a-dev-center>) | Microsoft DevPortal [link](<https://devportal.microsoft.com>)  
-  - Azure Developer CLI [link](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) 
+  - Azure Deployment Environments [link](https://learn.microsoft.com/azure/deployment-environments/) | Azure Developer CLI [link](https://learn.microsoft.com/azure/developer/azure-developer-cli/) 
 - Collaboration & Documentation 
   - Microsoft Office Platform 
     - M365 [link](<https://learn.microsoft.com/microsoft-365/developer/>)
@@ -70,8 +70,6 @@ This is not an exhaustive list of Azure Resources - check [here](<https://azure1
   - Azure Service Bus [link](<https://learn.microsoft.com/azure/service-bus-messaging>)
 
 ## Implementation
-
-Are we there yet?  No! 
 
 Whats the Microsoft strategy / solution for the Internal Developer Platform - is there a developer portal / API ?  ... watch this space 😆
 
